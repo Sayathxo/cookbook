@@ -1,0 +1,21 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "student": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mdi/js": "^6.9.96",
+    "@mdi/react": "^1.6.0",
+    "ajv": "^8.17.1",
+    "bootstrap": "^5.3.3",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "react-bootstrap": "^2.10.4"
+  }
+}
